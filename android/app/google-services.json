@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52291874613",
+    "project_id": "stouchi-8c2ba",
+    "storage_bucket": "stouchi-8c2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52291874613:android:f15e59d4445e50311f667c",
+        "android_client_info": {
+          "package_name": "com.stouchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EMgFf2CD3Oc_ASthy8qf-QxGCwRPXEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
